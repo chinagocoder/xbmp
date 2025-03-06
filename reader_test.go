@@ -1,4 +1,4 @@
-package bmp
+package xbmp
 
 import (
 	"image/color"
